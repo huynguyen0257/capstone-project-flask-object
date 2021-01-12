@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+checkpoints/yolov4-416/variables/*
 # C extensions
 *.so
 
